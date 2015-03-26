@@ -1,0 +1,16 @@
+{
+  "name": "jost125/koala-parallel",
+  "type": "library",
+  "autoload": {
+    "psr-0": {"Koala\\": "src/"}
+  },
+  "authors": [
+    {
+      "name": "Jan Machala",
+      "email": "jan.machala@email.cz"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0"
+  }
+}
